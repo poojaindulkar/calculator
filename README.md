@@ -1,6 +1,6 @@
 # calculator
 
-## [Calculator Demo](https://github.com/poojaindulkar/calculator/blob/main/Calculator.png)
+### [Calculator Demo](https://github.com/poojaindulkar/calculator/blob/main/Calculator.png)
 
 ## Key Features:
 
@@ -14,17 +14,19 @@
 
 1. **Clone the Repository:**
    
-git clone https://github.com/poojaindulkar/calculator.git
-3. **Install Dependencies:**
+   git clone https://github.com/poojaindulkar/calculator.git
 
-npm install
+2. **Install Dependencies:**
+
+   npm install
+   
 4. **Start the Development Server:**
 
-npm start
+   npm start
 
 5. **Open in Browser:**
    
-Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
+   Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Usage:
 
