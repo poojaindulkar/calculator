@@ -1,6 +1,6 @@
 # calculator
 
-### [Calculator Demo](https://github.com/poojaindulkar/calculator/blob/main/Calculator.png)
+### [Calculator Demo](https://poojaindulkar.github.io/calculator/)
 
 ## Key Features:
 
