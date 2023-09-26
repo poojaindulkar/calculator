@@ -13,10 +13,10 @@
 ## Getting Started:
 
 1. **Clone the Repository:**
-   
+
    git clone https://github.com/poojaindulkar/calculator.git
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
 
    npm install
    
@@ -25,13 +25,14 @@
    npm start
 
 5. **Open in Browser:**
-   
+
    Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Usage:
 
 - **Performing Operations:**
-- Enter numbers and use the provided buttons for basic arithmetic operations (+, -, *, /).
+
+   Enter numbers and use the provided buttons for basic arithmetic operations (+, -, *, /).
 
 
 
