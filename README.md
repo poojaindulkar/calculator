@@ -1,7 +1,6 @@
 # calculator
-# Simple React Calculator
 
-![Calculator Demo](demo.gif)
+## [Calculator Demo](https://github.com/poojaindulkar/calculator/blob/main/Calculator.png)
 
 ## Key Features:
 
@@ -14,13 +13,17 @@
 ## Getting Started:
 
 1. **Clone the Repository:**
+   
 git clone https://github.com/poojaindulkar/calculator.git
-2. **Install Dependencies:**
+3. **Install Dependencies:**
+
 npm install
-3. **Start the Development Server:**
+4. **Start the Development Server:**
+
 npm start
 
-4. **Open in Browser:**
+5. **Open in Browser:**
+   
 Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Usage:
@@ -28,8 +31,5 @@ Open your web browser and navigate to [http://localhost:3000](http://localhost:3
 - **Performing Operations:**
 - Enter numbers and use the provided buttons for basic arithmetic operations (+, -, *, /).
 
-- **Real-time Updates:**
-- Enjoy a seamless user experience with real-time updates.
 
-![Calculator Usage Demo](usage-demo.gif)
 
